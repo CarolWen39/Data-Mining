@@ -1,3 +1,4 @@
 hw3_data/review_train.json filter=lfs diff=lfs merge=lfs -text
 hw3_data/checkin.json filter=lfs diff=lfs merge=lfs -text
 hw3_data/tip.json filter=lfs diff=lfs merge=lfs -text
+hw3_data/business.json filter=lfs diff=lfs merge=lfs -text
